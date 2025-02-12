@@ -1,6 +1,6 @@
 services:
   php:
-    image: rugusa/estudiarDocker:v1
+    image: rugusa/estudiardocker:v1
     container_name: contenedorEstudiarDocker
     ports:
       - "8080:80"
