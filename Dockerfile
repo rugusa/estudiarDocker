@@ -1,2 +1,2 @@
 FROM php:8.2-apache
-COPY . /var/www/html/
+COPY . /var/www/html/estudiar
