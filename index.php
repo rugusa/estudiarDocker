@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <body>
     <div>
-        <h1>CalculadoaAa</h1>
+        <h1>CalculadoaAaa</h1>
         <form method="post">
             <input type="number" step="any" name="a" placeholder="Primer número" required>
             <input type="number" step="any" name="b" placeholder="Segundo número">
